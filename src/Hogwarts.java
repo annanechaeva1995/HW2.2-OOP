@@ -68,6 +68,6 @@ public abstract class Hogwarts {
         } else {
             System.out.println("Баллы волшебников равны.");
         }
-    }
+      }
     }
 

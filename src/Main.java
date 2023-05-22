@@ -27,6 +27,5 @@ public class Main {
         padmaPatil.compareByFaculty(marcusBelby);
         System.out.println(ronaldWeasley.getDescriptionOfStudent());
         System.out.println(grahamMontagu.getDescriptionOfStudent());
-
     }
 }

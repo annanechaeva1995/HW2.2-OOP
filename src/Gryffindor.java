@@ -46,5 +46,4 @@ public class Gryffindor extends Hogwarts {
     public void printCompareByFaculty(String firstStudent, String secondStudent) {
         System.out.println(firstStudent + " лучший гриффиндорец, чем " + secondStudent);
     }
-
 }

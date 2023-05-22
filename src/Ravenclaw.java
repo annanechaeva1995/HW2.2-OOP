@@ -51,4 +51,5 @@ public class Ravenclaw extends Hogwarts {
     public void printCompareByFaculty(String firstStudent, String secondStudent) {
         System.out.println(firstStudent + " лучший когтевранец, чем " + secondStudent);
     }
+
 }

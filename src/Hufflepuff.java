@@ -44,4 +44,5 @@ public class Hufflepuff extends Hogwarts {
     public void printCompareByFaculty(String firstStudent, String secondStudent) {
         System.out.println(firstStudent + " лучший пуффендуец, чем " + secondStudent);
     }
+
 }
